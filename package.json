@@ -1,27 +1,26 @@
 {
-  "name": "learning-npm-the-node-package-manager-4362456",
+  "name": "@kritanaryal/learning-npm-the-node-package-manager-4362456",
   "version": "1.0.0",
   "description": "This is the repository for the LinkedIn Learning course Learning npm: A Package Manager. The full course is available from [LinkedIn Learning][lil-course-url].",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Kritan Aryal",
-  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KAryal10/learning-npm-the-node-package-manager-4362456.git"
   },
+  "author": "Kritan Aryal",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/KAryal10/learning-npm-the-node-package-manager-4362456/issues"
   },
   "homepage": "https://github.com/KAryal10/learning-npm-the-node-package-manager-4362456#readme",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "socketio": "^1.0.0"
   },
   "devDependencies": {
-    "babel": "^5.8.38",
-    "babel-cli": "^6.26.0",
-    "cli": "^1.0.1"
+    "babel-cli": "^6.26.0"
   }
 }
