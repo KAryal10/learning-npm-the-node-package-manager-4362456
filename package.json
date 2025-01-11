@@ -7,5 +7,21 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Kritan Aryal",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KAryal10/learning-npm-the-node-package-manager-4362456.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KAryal10/learning-npm-the-node-package-manager-4362456/issues"
+  },
+  "homepage": "https://github.com/KAryal10/learning-npm-the-node-package-manager-4362456#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "babel": "^5.8.38",
+    "babel-cli": "^6.26.0",
+    "cli": "^1.0.1"
+  }
 }
